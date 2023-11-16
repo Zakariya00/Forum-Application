@@ -37,7 +37,7 @@ These instructions will guide you through running the full stack application usi
 
 * Run the command "npm run dev" to start both the server and client side of the application. This will launch the application in your default browser.
 
-* Head to http://localhost:3000 to view it in the browser.
+* Head to http://localhost:8080 to view it in the browser.
 
 ## Organization of files in the repo
 
