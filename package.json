@@ -1,0 +1,13 @@
+{
+  "name": "my-full-stack-app",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "install": "cd client && npm install && cd ../server && npm install && npm run dev",
+    "client:start": "cd client && npm start",
+    "server:start": "cd server && npm start",
+    "start": "npm run install && npm run client:start"
+  },
+  "devDependencies": {},
+  "dependencies": {}
+}
