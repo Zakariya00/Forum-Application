@@ -44,3 +44,5 @@ export interface CommentInterface {
     createdAt: Date;
     updatedAt: Date;
 }
+
+
