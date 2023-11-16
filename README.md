@@ -43,13 +43,8 @@ These instructions will guide you through running the full stack application usi
 
 In this section you wil be able to find paths to all relevant files within our repo.
 
-- [client](https://github.com/Zakariya00/Forum_app/client) This path contains the source code for the React App.
-- [server](https://github.com/Zakariya00/Forum_app/server) This path contains the source code for the server and MongoDB implementation. 
-
-
-## Visual user Manual
-
-
+- [client](https://github.com/Zakariya00/Forum-Application/tree/main/client) This path contains the source code for the React App.
+- [server](https://github.com/Zakariya00/Forum-Application/tree/main/server) This path contains the source code for the server and MongoDB implementation. 
 
 ## Visual User Manual
 
