@@ -18,6 +18,48 @@ Table below lists the github user names of the contributors and their correspond
   
 </table>
 
+## Time Spent 
+Table below lists the time division of the project.
+
+<table>
+  <tr>
+    <th>Time</th>
+    <th>Spent on</th>
+  </tr>
+  <tr>
+    <td>1 hour</td>
+    <td>Set Up & Launch</td>
+  </tr>
+  <tr>
+    <td>5 hours</td>
+    <td>Backend</td>
+  </tr>
+  <tr>
+    <td>4 hours</td>
+    <td>Front End</td>
+  </tr>
+  <tr>
+    <td>0 hours</td>
+    <td>Testing</td>
+  </tr>
+  <tr>
+    <td>0 hours</td>
+    <td>Refactoring Code</td>
+  </tr>
+  <tr>
+    <td colspan="2" style="text-align: right;"><strong>Total: 10 hours</strong></td>
+  </tr>
+</table>
+
+Any additional time would be spent primarily on:
+
+- **Testing:** Identifying and resolving issues to ensure the robustness of the application.
+  
+- **Refactoring Code to Avoid Duplication:** Enhancing code quality by eliminating redundancy and improving maintainability.
+
+- **More Extensive Error Handling:** Strengthening error handling mechanisms for a more resilient and user-friendly application.
+
+
 ## How to run
 
 #### Introduction:
@@ -29,13 +71,11 @@ These instructions will guide you through running the full stack application usi
 
 * Clone or download the repository https://github.com/Zakariya00/Forum-Application.git
 
-* Navigate to the root folder of the project in the terminal or command prompt.
+* Navigate to the root folder of the project (parent folder of both server & client) in the terminal or command prompt.
 
 * Run the command "npm install" to install all the required dependencies for both the client and server sides of the application.
 
-* Navigate to the server folder in the terminal or command prompt.
-
-* Run the command "npm run dev" to start both the server and client side of the application. This will launch the application in your default browser.
+* Wait for the server to start running.
 
 * Head to http://localhost:8080 to view it in the browser.
 
@@ -43,8 +83,8 @@ These instructions will guide you through running the full stack application usi
 
 In this section you wil be able to find paths to all relevant files within our repo.
 
-- [client](https://github.com/Zakariya00/Forum-Application/tree/main/client) This path contains the source code for the React App.
-- [server](https://github.com/Zakariya00/Forum-Application/tree/main/server) This path contains the source code for the server and MongoDB implementation. 
+- [Client](https://github.com/Zakariya00/Forum-Application/tree/main/client) This path contains the source code for the React App.
+- [Server](https://github.com/Zakariya00/Forum-Application/tree/main/server) This path contains the source code for the server and MongoDB implementation. 
 
 ## Visual User Manual
 
